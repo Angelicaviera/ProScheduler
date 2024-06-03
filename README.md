@@ -5,9 +5,10 @@ Selamat datang di ProScheduler, Web App yang memudahkan Anda dalam memberikan re
 ## Kelompok ManageIT 💼
 
 ### Tim Pengembang:
-- Ketua Kelompok: Angelica Callysta Viera - 21/474719/TK/52377  
-- Anggota 1: Rico Frijaya S. Pane - 21/480631/TK/53032  
-- Anggota 2: Partahi Bonaruli Sitorus - 21/482615/TK/53324  
+
+- Ketua Kelompok: Angelica Callysta Viera - 21/474719/TK/52377
+- Anggota 1: Rico Frijaya S. Pane - 21/480631/TK/53032
+- Anggota 2: Partahi Bonaruli Sitorus - 21/482615/TK/53324
 
 ## Kunjungi Kami! 🌐
 
@@ -16,6 +17,7 @@ Selamat datang di ProScheduler, Web App yang memudahkan Anda dalam memberikan re
 ## Cara Menjalankan di Local 💻
 
 ### Frontend:
+
 1. Buka terminal dan navigasikan ke direktori frontend:
    ```
    cd .\frontend\
@@ -30,6 +32,7 @@ Selamat datang di ProScheduler, Web App yang memudahkan Anda dalam memberikan re
    ```
 
 ### Backend:
+
 1. Buka terminal dan navigasikan ke direktori backend:
    ```
    cd .\backend\
@@ -48,6 +51,4 @@ Selamat datang di ProScheduler, Web App yang memudahkan Anda dalam memberikan re
 - **Membuat Referensi Proyek:** Dengan ProScheduler, Anda dapat dengan mudah membuat dan mengelola referensi proyek Anda. Tambahkan detail, deskripsi, dan catatan penting untuk setiap proyek.
 - **Buat Timeline Sederhana:** Rencanakan langkah-langkah pengerjaan proyek Anda dengan timeline yang mudah dipahami. Atur tenggat waktu, tambahkan tugas, dan pantau kemajuan proyek Anda.
 
-Terima kasih telah menggunakan ProScheduler! Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami melalui kontak yang tertera di halaman web kami.
-
-Happy scheduling! 📆✨
+## Happy scheduling! 📆✨
